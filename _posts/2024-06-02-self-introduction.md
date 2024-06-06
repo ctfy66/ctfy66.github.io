@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:     self-introduction 				# 标题 
+title:     <span style="color:black">self-introduction </span> 				# 标题 
 subtitle:   hi #副标题
 date:       2024-06-02				# 时间
 author:     hui					# 作者
